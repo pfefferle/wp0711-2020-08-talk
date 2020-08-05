@@ -1,0 +1,1 @@
+![](img/indie-responses.png)
