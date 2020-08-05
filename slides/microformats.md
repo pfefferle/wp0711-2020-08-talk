@@ -1,4 +1,4 @@
-## Microformats h-card
+## Microformats h-entry
 
 ```HTML
 <article class="h-entry">

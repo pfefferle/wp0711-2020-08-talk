@@ -3,4 +3,5 @@
 * like
 * share
 * contact
+* direct messages
 * ...
